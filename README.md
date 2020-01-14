@@ -2,7 +2,7 @@
 
 Exercise Tracker is a web based project build on MERN (MongoDB, Express, React, Node.js). This project serves as a platform for me to gain exposure and familarity with the MERN stack, it is **not** meant for production purposes, and does **not** include your usual standard practices.
 
-Should you wish to find out more, please contact me at my [email](gabrielkoh@live.com) or via [linkedin](http://linkedin/in/gabrielkohzm).
+Should you wish to find out more, please contact me at my email (gabrielkoh@live.com) or via [linkedin](https://www.linkedin.com/in/gabrielkohzm).
 
 ## Pre-requisites
 
