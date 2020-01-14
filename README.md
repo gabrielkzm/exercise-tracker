@@ -35,8 +35,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `nodemon server`
 - Starts the backend application of **Exercise Tracker** application.
 
-### Other Notes
+## Other Notes
 
-**This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).**
+*This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).*
 
-**Credits: This project was inspired by [Beau Carnes](https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1).**
+*Credits: This project was inspired by [Beau Carnes](https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1).*
